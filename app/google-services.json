@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "370840029182",
+    "firebase_url": "https://ftp-server-64309-default-rtdb.firebaseio.com",
+    "project_id": "ftp-server-64309",
+    "storage_bucket": "ftp-server-64309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370840029182:android:95a4460ff2af53022a22af",
+        "android_client_info": {
+          "package_name": "com.movie.ftpserver.movieserver.movieapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oZxTE5XJCpqppbTXW_Crh1s95edGg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370840029182:android:4c558fad36eabe582a22af",
+        "android_client_info": {
+          "package_name": "com.securevpn.facedetactionattandencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oZxTE5XJCpqppbTXW_Crh1s95edGg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370840029182-bjnl5thrnrb2g359e20ouq65bmsbc6mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
